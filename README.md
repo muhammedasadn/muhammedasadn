@@ -12,8 +12,7 @@
 
 ## 👨‍💻 Professional Summary
 
-I am a multidisciplinary **developer and designer** with experience in building websites, applications, and visual identities for startups and individuals.  
-My work focuses on **clarity, performance, and user experience**, supported by a growing foundation in **Python and Linux**.
+I am a developer with experience building reliable web applications and systems, with a strong focus on performance, code quality, and user experience. I work primarily in Python and Linux-based environments and continuously strengthen my foundation in systems, security, and scalable software design.
 
 ---
 
