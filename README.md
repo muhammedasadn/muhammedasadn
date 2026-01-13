@@ -1,16 +1,75 @@
-## Hi there 👋
+<h1 align="center">Muhammed Asad</h1>
 
-<!--
-**muhammedasadn/muhammedasadn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>Web Developer • Python Developer • Designer • Linux</strong>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=800&center=true&vCenter=true&width=600&lines=Building+Modern+Web+Solutions;Creative+Branding+%26+UI%2FUX+Design;Python+Development+%26+Automation;Learning+Cybersecurity+%26+Ethical+Hacking" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 Professional Summary
+
+I am a multidisciplinary **developer and designer** with experience in building websites, applications, and visual identities for startups and individuals.  
+My work focuses on **clarity, performance, and user experience**, supported by a growing foundation in **Python and Linux**.
+
+---
+
+## 🧩 Core Expertise
+    
+### Development
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,django,mysql" />
+</p>
+
+### Design & Creative
+<p>
+  <img src="https://skillicons.dev/icons?i=photoshop,illustrator,figma" />
+</p>
+
+### Systems & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode" />
+</p>
+
+---
+
+## 📌 Selected Projects
+
+- **Academy Management System**  
+  Attendance, Outpass, Leave Management, Student Records  
+
+- **Online Magazine Platform**  
+  UI/UX Design + Frontend Development  
+
+- **Startup Branding & Logo Design**  
+  Visual identity for early-stage businesses  
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=YOUR_USERNAME&theme=tokyonight" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🤝 Let’s Connect
+
+- 📧 Email: asadnasar748@gmail.om
+- 🌐 Portfolio: Coming Soon  
+- 💻 GitHub: https://github.com/muahhmedasadn
+
+---
+
+<p align="center">
+  <em>Design with purpose. Build with precision. Learn continuously.</em>
+</p>
