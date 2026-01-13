@@ -27,18 +27,14 @@ My work focuses on **clarity, performance, and user experience**, supported by a
 ![Samba](https://img.shields.io/badge/Samba-File%20Server-black?style=flat-square)
 ![Nmap](https://img.shields.io/badge/Nmap-Network%20Scanning-black?style=flat-square)
 
-
 ### Development
-
 <p>
   <img src="https://skillicons.dev/icons?i=python,js,html,css,django,mysql" />
 </p>
-
 ### Design & Creative
 <p>
   <img src="https://skillicons.dev/icons?i=photoshop,illustrator,figma" />
 </p>
-
 ### Systems & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=linux,git,github,vscode" />
@@ -62,13 +58,17 @@ My work focuses on **clarity, performance, and user experience**, supported by a
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=YOUR_USERNAME&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=asad-devhub&show_icons=true&theme=dark&cache_seconds=1800" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=asad-devhub&theme=dark" height="165"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asad-devhub&layout=compact&theme=dark"/>
+</p>
+
 
 ---
 
