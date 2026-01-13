@@ -27,7 +27,7 @@ My work focuses on **clarity, performance, and user experience**, supported by a
 ![Samba](https://img.shields.io/badge/Samba-File%20Server-black?style=flat-square)
 ![Nmap](https://img.shields.io/badge/Nmap-Network%20Scanning-black?style=flat-square)
 
-<div align="center">
+<div align="">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
