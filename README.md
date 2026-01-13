@@ -20,6 +20,15 @@ My work focuses on **clarity, performance, and user experience**, supported by a
 ## 🧩 Core Expertise
     
 ### Development
+## 🐧 Linux & Systems
+
+![Linux](https://img.shields.io/badge/Linux-Professional-black?style=flat-square&logo=linux)
+![Bash](https://img.shields.io/badge/Bash-Scripting-black?style=flat-square&logo=gnu-bash)
+![SSH](https://img.shields.io/badge/SSH-Remote%20Access-black?style=flat-square&logo=openssh)
+![Samba](https://img.shields.io/badge/Samba-File%20Server-black?style=flat-square)
+![Nmap](https://img.shields.io/badge/Nmap-Network%20Scanning-black?style=flat-square)
+
+
 <p>
   <img src="https://skillicons.dev/icons?i=python,js,html,css,django,mysql" />
 </p>
