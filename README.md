@@ -28,14 +28,17 @@ My work focuses on **clarity, performance, and user experience**, supported by a
 ![Nmap](https://img.shields.io/badge/Nmap-Network%20Scanning-black?style=flat-square)
 
 ### Development
+
 <p>
   <img src="https://skillicons.dev/icons?i=python,js,html,css,django,mysql" />
 </p>
 ### Design & Creative
+
 <p>
   <img src="https://skillicons.dev/icons?i=photoshop,illustrator,figma" />
 </p>
 ### Systems & Tools
+
 <p>
   <img src="https://skillicons.dev/icons?i=linux,git,github,vscode" />
 </p>
