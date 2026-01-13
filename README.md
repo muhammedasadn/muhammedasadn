@@ -19,7 +19,6 @@ My work focuses on **clarity, performance, and user experience**, supported by a
 
 ## 🧩 Core Expertise
     
-### Development
 ## 🐧 Linux & Systems
 
 ![Linux](https://img.shields.io/badge/Linux-Professional-black?style=flat-square&logo=linux)
@@ -28,6 +27,8 @@ My work focuses on **clarity, performance, and user experience**, supported by a
 ![Samba](https://img.shields.io/badge/Samba-File%20Server-black?style=flat-square)
 ![Nmap](https://img.shields.io/badge/Nmap-Network%20Scanning-black?style=flat-square)
 
+
+### Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,js,html,css,django,mysql" />
