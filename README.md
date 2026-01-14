@@ -2,18 +2,9 @@
   <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230">
 </p>
 <hr>
-<h1 align="center">I'm <a href="https://github.com/Aryagm">Arya Manjaramkar</a><a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"></a></h1><a>
+<h1 align="center">I'm <a href="https://github.com/Aryagm">Muhammed Asad N</a><a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"></a></h1><a>
 <br>
 <h1>About Me! 😎</h1>
-<ul>
-<li>🏫: I’m a grade 9, High School Student.</li>
-<li>🔭: I’m currently working on many small ML projects.</li>
-<li>🌱: I’m currently learning Neural Networks and Deep Learning. 🧠💻🤖</li>
-<li>🤔: I’m looking for help with anything I am currently learning! 😅</li>
-<li>💬: Ask me about Data Analysis, Visualization and Machine Learning algorithms. 📊📈🤖🧠</li>
-<li>😄  Pronouns: He/His</li>
-<li>⚡  Fun fact: I play Soccer, Tennis and the Piano! ⚽🎾🎹</li>
-</ul>
 <hr>
 <br>
 <h1 align="center">Get in Touch! 📬</h1>
