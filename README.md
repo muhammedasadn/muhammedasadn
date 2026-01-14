@@ -10,7 +10,7 @@
 <h1 align="center">Get in Touch! 📬</h1>
 <br>
 </a><p align="center"><a>
-</a><a href="https://www.linkedin.com/in/Muhammed Asad" target="blank"><img align="center" src="https://img.shields.io/badge/Arya Manjaramkar-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:asadnasar748@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/aryagm01@gmail.com-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/muhammedasadn" target="blank"><img align="center" src="https://img.shields.io/badge/Aryagm-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white"></a>
+</a><a href="https://www.linkedin.com/in/Muhammed Asad" target="blank"><img align="center" src="https://img.shields.io/badge/Muhammed Asad N-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:asadnasar748@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/asadnasar748@gmail.com-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/muhammedasadn" target="blank"><img align="center" src="https://img.shields.io/badge/Muhammed Asad N-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white"></a>
 </p>
 <br>
 <hr>
