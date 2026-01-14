@@ -1,95 +1,122 @@
-<h1 align="center">Muhammed Asad</h1>
-
-<p align="center">
-  <strong>Web Developer • Python Developer • Designer • Linux</strong>
+  <p align="center">
+  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230">
 </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=800&center=true&vCenter=true&width=600&lines=Building+Modern+Web+Solutions;Creative+Branding+%26+UI%2FUX+Design;Python+Development+%26+Automation;Learning+Cybersecurity+%26+Ethical+Hacking" />
+<hr>
+<h1 align="center">I'm <a href="https://github.com/Aryagm">Arya Manjaramkar</a><a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"></a></h1><a>
+<br>
+<h1>About Me! 😎</h1>
+<ul>
+<li>🏫: I’m a grade 9, High School Student.</li>
+<li>🔭: I’m currently working on many small ML projects.</li>
+<li>🌱: I’m currently learning Neural Networks and Deep Learning. 🧠💻🤖</li>
+<li>🤔: I’m looking for help with anything I am currently learning! 😅</li>
+<li>💬: Ask me about Data Analysis, Visualization and Machine Learning algorithms. 📊📈🤖🧠</li>
+<li>😄  Pronouns: He/His</li>
+<li>⚡  Fun fact: I play Soccer, Tennis and the Piano! ⚽🎾🎹</li>
+</ul>
+<hr>
+<br>
+<h1 align="center">Get in Touch! 📬</h1>
+<br>
+</a><p align="center"><a>
+</a><a href="https://www.linkedin.com/in/arya-manjaramkar" target="blank"><img align="center" src="https://img.shields.io/badge/Arya Manjaramkar-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:aryagm01@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/aryagm01@gmail.com-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/Aryagm" target="blank"><img align="center" src="https://img.shields.io/badge/Aryagm-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white"></a>
 </p>
-
----
-
-## 👨‍💻 Professional Summary
-
-I am a developer with experience building reliable web applications and systems, with a strong focus on performance, code quality, and user experience. I work primarily in Python and Linux-based environments and continuously strengthen my foundation in systems, security, and scalable software design.
-
----
-
-## 🧩 Core Expertise
-    
-## 🐧 Linux & Systems
-
-![Linux](https://img.shields.io/badge/Linux-Professional-black?style=flat-square&logo=linux)
-![Bash](https://img.shields.io/badge/Bash-Scripting-black?style=flat-square&logo=gnu-bash)
-![SSH](https://img.shields.io/badge/SSH-Remote%20Access-black?style=flat-square&logo=openssh)
-![Samba](https://img.shields.io/badge/Samba-File%20Server-black?style=flat-square)
-![Nmap](https://img.shields.io/badge/Nmap-Network%20Scanning-black?style=flat-square)
-
-<div align="">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-</div>
-
-### Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,django,mysql" />
-</p>
-### Design & Creative
-
-<p>
-  <img src="https://skillicons.dev/icons?i=photoshop,illustrator,figma" />
-</p>
-### Systems & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode" />
-</p>
-
----
-
-## 📌 Selected Projects
-
-- **Academy Management System**  
-  Attendance, Outpass, Leave Management, Student Records  
-
-- **Online Magazine Platform**  
-  UI/UX Design + Frontend Development  
-
-- **Startup Branding & Logo Design**  
-  Visual identity for early-stage businesses  
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asad-devhub&show_icons=true&theme=dark&cache_seconds=1800" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=asad-devhub&theme=dark" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asad-devhub&layout=compact&theme=dark"/>
-</p>
+<br>
+<hr>
+<br>
+<h1 align="center">Skills I have! 🤸‍♂</h1>
+<br>
 
 
----
 
-## 🤝 Let’s Connect
 
-- 📧 Email: asadnasar748@gmail.om
-- 🌐 Portfolio: Coming Soon  
-- 💻 GitHub: https://github.com/muahhmedasadn
 
----
 
-<p align="center">
-  <em>Design with purpose. Build with precision. Learn continuously.</em>
-</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th><img src="https://img.shields.io/badge/Machine%20Learning-brightgreen?style=for-the-badge" alt=""></th><th><img src="https://img.shields.io/badge/ML-Supervized%20Learning-brightgreen?style=for-the-badge" alt=""></th><th><img src="https://img.shields.io/badge/ML-Unsupervized%20Learning-brightgreen?style=for-the-badge" alt=""></th><th><img src="https://img.shields.io/badge/Web%20Scraping-red?style=for-the-badge" alt=""></th><th><img src="https://img.shields.io/badge/Dashboards-red?style=for-the-badge" alt=""></th></tr></thead><tbody><tr><td><img src="https://img.shields.io/badge/Data%20Science-blue?style=for-the-badge" alt=""></td><td><img src="https://img.shields.io/badge/DS-Data%20Cleaning-blue?style=for-the-badge" alt=""></td><td><img src="https://img.shields.io/badge/DS-Data%20Analysis-blue?style=for-the-badge" alt=""></td><td><img src="https://img.shields.io/badge/DS-Data%20Visualization-blue?style=for-the-badge" alt=""></td><td><img src="https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge" alt=""></td></tr></tbody></table>
+<br>
+<hr>
+<br>
+<h1>Tools I use! 🛠️</h1>
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&amp;logo=python&amp;logoColor=darkgreen" alt=""></th><th><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&amp;logo=TensorFlow&amp;logoColor=white" alt=""></th><th><img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=white" alt=""></th><th><img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&amp;logo=Keras&amp;logoColor=white" alt=""></th><th><img src="https://img.shields.io/badge/Jupyter-F37626.svg?&amp;style=for-the-badge&amp;logo=Jupyter&amp;logoColor=white" alt=""></th></tr></thead><tbody><tr><td><img src="https://img.shields.io/badge/conda-342B029.svg?&amp;style=for-the-badge&amp;logo=anaconda&amp;logoColor=white" alt=""></td><td><img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" alt=""></td><td><img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&amp;logo=numpy&amp;logoColor=white" alt=""></td><td><img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&amp;logo=plotly&amp;logoColor=white" alt=""></td><td><img src="https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge" alt=""></td></tr></tbody></table>
+<br>
+<hr>
+<br>
+<h1>Some of my Projects! 🎨</h1>
+<br>
+<p><a href="https://github.com/Aryagm/California_Housing_Prices"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aryagm&amp;repo=California_Housing_Prices" alt="ReadMe Card"></a></p>
+<br>
+<hr>
+<br>
+<h1>Certifications! 🏆</h1>
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th><a href="https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Introduction%20to%20Python-1.jpg"><img src="https://img.shields.io/badge/Introduction%20to%20Python-red?style=for-the-badge" alt=""></a></th><th><a href="https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Intermediate%20Python-1.jpg"><img src="https://img.shields.io/badge/Intermediate%20Python-blue?style=for-the-badge" alt=""></a></th><th><a href="https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Machine%20Learning%20for%20Everyone-1.jpg"><img src="https://img.shields.io/badge/Machine%20Learning%20for%20Everyone-green?style=for-the-badge" alt=""></a></th><th><a href="https://github.com/Aryagm/Aryagm/blob/main/Certificates/Data%20Science%20Toolbox%20-%20I-1.jpg"><img src="https://img.shields.io/badge/Data%20Science%20Toolbox%20-I-orange?style=for-the-badge" alt=""></a></th></tr></thead><tbody><tr><td><a href="https://github.com/Aryagm/Aryagm/blob/main/Certificates/Data%20Science%20Toolbox%20-%20II-1.jpg"><img src="https://img.shields.io/badge/Data%20Science%20Toolbox%20-II-orange?style=for-the-badge" alt=""></a></td><td><a href="https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Statistical%20Thinking%20in%20Python-1.jpg"><img src="https://img.shields.io/badge/Statistical%20Thinking%20in%20Python-purple?style=for-the-badge" alt=""></a></td><td><a href="https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Supervized%20Learning%20with%20Scikit-Learn-1.jpg"><img src="https://img.shields.io/badge/Supervized%20Learning%20with%20Sklearn-red?style=for-the-badge" alt=""></a></td><td><a href="https://github.com/Aryagm"><img src="https://img.shields.io/badge/More%20on%20the%20Way!-yellow?style=for-the-badge" alt=""></a></td></tr></tbody></table>
+<br>
+<hr>
+<br>
+<h1>GitHub Stats! 📊</h1>
+<br>
+<p><a href="https://github.com/Aryagm/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Aryagm&amp;show_icons=true&amp;theme=merko" alt="Arya's github stats"></a> <a href="https://github.com/Aryagm/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryagm&amp;layout=compact&amp;theme=merko" alt="Top Langs"></a></p>
+<br>
+<hr>
+<br>
+<h1>A Little Joke at the End! 🤣</h1>
+<br>
+<img src="https://ih1.redbubble.net/image.471887531.0381/raf,750x1000,075,t,000000:44f0b734a5.u4.jpg">
+<br>
+<hr>
+<br>
+<h1>Thank You! 🤵 </h1>
+<br>
+<hr>
+<p>Credit: <a href="https://github.com/Aryagm">Aryagm</a>
+Last Edited on: 22/06/2021</p> 
