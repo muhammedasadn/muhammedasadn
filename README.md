@@ -1,113 +1,123 @@
-  <p align="center">
+<p align="center">
   <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230">
 </p>
+
 <hr>
-<h1 align="center">I'm <a href="https://github.com/Aryagm">Muhammed Asad N</a><a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"></a></h1><a>
+
+<h1 align="center">
+  I'm <a href="https://github.com/muhammedasadn">Muhammed Asad N</a>
+</h1>
+
 <br>
-<h1>About Me! 😎</h1>
+
+<h2>About Me</h2>
 <hr>
-<br>
-<h1 align="center">Get in Touch! 📬</h1>
-<br>
-</a><p align="center"><a>
-</a><a href="https://www.linkedin.com/in/Muhammed Asad" target="blank"><img align="center" src="https://img.shields.io/badge/Muhammed Asad N-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:asadnasar748@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/asadnasar748@gmail.com-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/muhammedasadn" target="blank"><img align="center" src="https://img.shields.io/badge/Muhammed Asad N-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white"></a>
+
+<p>
+I am a developer with experience building reliable web applications and systems, with a strong focus on performance, code quality, and user experience.
+I work primarily in Python and Linux-based environments and continuously strengthen my foundation in systems, security, and scalable software design.
 </p>
+
+<br>
+
+<h2 align="center">Get in Touch</h2>
+<br>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammed-asad-n" target="blank">
+    <img src="https://img.shields.io/badge/Muhammed%20Asad%20N-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:asadnasar748@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/asadnasar748@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/muhammedasadn" target="blank">
+    <img src="https://img.shields.io/badge/GitHub-muhammedasadn-100000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+
 <br>
 <hr>
 <br>
-<h1 align="center">Skills I have! 🤸‍♂</h1>
+
+<h2>Core Skills</h2>
 <br>
 
+<table>
+<thead>
+<tr>
+  <th><img src="https://img.shields.io/badge/Python-Backend-blue?style=for-the-badge"></th>
+  <th><img src="https://img.shields.io/badge/Linux-System%20Fundamentals-black?style=for-the-badge&logo=linux"></th>
+  <th><img src="https://img.shields.io/badge/Bash-Scripting-darkgreen?style=for-the-badge&logo=gnu-bash"></th>
+  <th><img src="https://img.shields.io/badge/Web-Development-orange?style=for-the-badge"></th>
+  <th><img src="https://img.shields.io/badge/System-Design-lightgrey?style=for-the-badge"></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td><img src="https://img.shields.io/badge/Git-Version%20Control-red?style=for-the-badge"></td>
+  <td><img src="https://img.shields.io/badge/SQL-MySQL-blue?style=for-the-badge"></td>
+  <td><img src="https://img.shields.io/badge/SSH-Remote%20Access-black?style=for-the-badge&logo=openssh"></td>
+  <td><img src="https://img.shields.io/badge/Samba-File%20Server-00599C?style=for-the-badge"></td>
+  <td><img src="https://img.shields.io/badge/Continuous-Learning-yellow?style=for-the-badge"></td>
+</tr>
+</tbody>
+</table>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<table><thead><tr><th><img src="https://img.shields.io/badge/Machine%20Learning-brightgreen?style=for-the-badge" alt=""></th><th><img src="https://img.shields.io/badge/ML-Supervized%20Learning-brightgreen?style=for-the-badge" alt=""></th><th><img src="https://img.shields.io/badge/ML-Unsupervized%20Learning-brightgreen?style=for-the-badge" alt=""></th><th><img src="https://img.shields.io/badge/Web%20Scraping-red?style=for-the-badge" alt=""></th><th><img src="https://img.shields.io/badge/Dashboards-red?style=for-the-badge" alt=""></th></tr></thead><tbody><tr><td><img src="https://img.shields.io/badge/Data%20Science-blue?style=for-the-badge" alt=""></td><td><img src="https://img.shields.io/badge/DS-Data%20Cleaning-blue?style=for-the-badge" alt=""></td><td><img src="https://img.shields.io/badge/DS-Data%20Analysis-blue?style=for-the-badge" alt=""></td><td><img src="https://img.shields.io/badge/DS-Data%20Visualization-blue?style=for-the-badge" alt=""></td><td><img src="https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge" alt=""></td></tr></tbody></table>
-<br>
-<hr>
-<br>
-<h1>Tools I use! 🛠️</h1>
-<br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<table><thead><tr><th><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&amp;logo=python&amp;logoColor=darkgreen" alt=""></th><th><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&amp;logo=TensorFlow&amp;logoColor=white" alt=""></th><th><img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=white" alt=""></th><th><img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&amp;logo=Keras&amp;logoColor=white" alt=""></th><th><img src="https://img.shields.io/badge/Jupyter-F37626.svg?&amp;style=for-the-badge&amp;logo=Jupyter&amp;logoColor=white" alt=""></th></tr></thead><tbody><tr><td><img src="https://img.shields.io/badge/conda-342B029.svg?&amp;style=for-the-badge&amp;logo=anaconda&amp;logoColor=white" alt=""></td><td><img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" alt=""></td><td><img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&amp;logo=numpy&amp;logoColor=white" alt=""></td><td><img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&amp;logo=plotly&amp;logoColor=white" alt=""></td><td><img src="https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge" alt=""></td></tr></tbody></table>
 <br>
 <hr>
 <br>
-<h1>Some of my Projects! 🎨</h1>
-<br>
-<p><a href="https://github.com/Aryagm/California_Housing_Prices"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aryagm&amp;repo=California_Housing_Prices" alt="ReadMe Card"></a></p>
-<br>
-<hr>
-<br>
-<h1>Certifications! 🏆</h1>
+
+<h2>Tools & Technologies</h2>
 <br>
 
+<table>
+<thead>
+<tr>
+  <th><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"></th>
+  <th><img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux"></th>
+  <th><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></th>
+  <th><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"></th>
+  <th><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code"></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></td>
+  <td><img src="https://img.shields.io/badge/Bash-Shell-darkgreen?style=for-the-badge"></td>
+  <td><img src="https://img.shields.io/badge/Django-Beginner-092E20?style=for-the-badge&logo=django"></td>
+  <td><img src="https://img.shields.io/badge/Linux-CLI-black?style=for-the-badge"></td>
+  <td><img src="https://img.shields.io/badge/And%20More-In%20Progress-yellow?style=for-the-badge"></td>
+</tr>
+</tbody>
+</table>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<table><thead><tr><th><a href="https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Introduction%20to%20Python-1.jpg"><img src="https://img.shields.io/badge/Introduction%20to%20Python-red?style=for-the-badge" alt=""></a></th><th><a href="https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Intermediate%20Python-1.jpg"><img src="https://img.shields.io/badge/Intermediate%20Python-blue?style=for-the-badge" alt=""></a></th><th><a href="https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Machine%20Learning%20for%20Everyone-1.jpg"><img src="https://img.shields.io/badge/Machine%20Learning%20for%20Everyone-green?style=for-the-badge" alt=""></a></th><th><a href="https://github.com/Aryagm/Aryagm/blob/main/Certificates/Data%20Science%20Toolbox%20-%20I-1.jpg"><img src="https://img.shields.io/badge/Data%20Science%20Toolbox%20-I-orange?style=for-the-badge" alt=""></a></th></tr></thead><tbody><tr><td><a href="https://github.com/Aryagm/Aryagm/blob/main/Certificates/Data%20Science%20Toolbox%20-%20II-1.jpg"><img src="https://img.shields.io/badge/Data%20Science%20Toolbox%20-II-orange?style=for-the-badge" alt=""></a></td><td><a href="https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Statistical%20Thinking%20in%20Python-1.jpg"><img src="https://img.shields.io/badge/Statistical%20Thinking%20in%20Python-purple?style=for-the-badge" alt=""></a></td><td><a href="https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Supervized%20Learning%20with%20Scikit-Learn-1.jpg"><img src="https://img.shields.io/badge/Supervized%20Learning%20with%20Sklearn-red?style=for-the-badge" alt=""></a></td><td><a href="https://github.com/Aryagm"><img src="https://img.shields.io/badge/More%20on%20the%20Way!-yellow?style=for-the-badge" alt=""></a></td></tr></tbody></table>
-<br>
-<hr>
-<br>
-<h1>GitHub Stats! 📊</h1>
-<br>
-<p><a href="https://github.com/Aryagm/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Aryagm&amp;show_icons=true&amp;theme=merko" alt="Arya's github stats"></a> <a href="https://github.com/Aryagm/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryagm&amp;layout=compact&amp;theme=merko" alt="Top Langs"></a></p>
 <br>
 <hr>
 <br>
-<h1>A Little Joke at the End! 🤣</h1>
+
+<h2>Selected Projects</h2>
 <br>
-<img src="https://ih1.redbubble.net/image.471887531.0381/raf,750x1000,075,t,000000:44f0b734a5.u4.jpg">
+
+<p>
+• Linux System Utilities (Bash / Python)<br>
+• Python Backend Project using Clean Architecture<br>
+• Academy Management System (Attendance, Leave, Records)<br>
+• Linux System & Backend Design Documentation
+</p>
+
 <br>
 <hr>
 <br>
-<h1>Thank You! 🤵 </h1>
+
+<h2>GitHub Stats</h2>
+<br>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammedasadn&show_icons=true&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedasadn&layout=compact&theme=dark">
+</p>
+
 <br>
 <hr>
-<p>Credit: <a href="https://github.com/Aryagm">Aryagm</a>
-Last Edited on: 22/06/2021</p> 
