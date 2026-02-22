@@ -6,11 +6,11 @@ Experienced in Python and Linux-based environments, with a strong interest in ba
 ---
 
 ## Core Technologies
-- Python
-- Linux (Ubuntu / Xubuntu)
+- Python / Node js / React(Frontend) / Next js(Framework)
+- Linux (Ubuntu / Xubuntu / Kali / etc
 - Bash scripting
 - Git & GitHub
-- SQL (MySQL)
+- SQL (MySQL / mango DB)
 - Django (foundational)
 
 ---
